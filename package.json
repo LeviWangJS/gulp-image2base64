@@ -1,0 +1,20 @@
+{
+  "name": "gulp-image2base64",
+  "version": "0.0.1",
+  "description": "tranform images into base64",
+  "private": false,
+  "main": "./index.js",
+  "author": "wang.chuan <LeviWangJS@163.com>",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeviWangJS/gulp-image2base64.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^0.4.2"
+  }
+}
